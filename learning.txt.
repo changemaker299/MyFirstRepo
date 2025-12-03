@@ -1,0 +1,4 @@
+So far, the most important concept I've learned is the fundamental Git workflow
+Clone, Edit, Stage, Commit, and Push. Understanding the difference between the working directory
+the staging area, and the local repository (through the Git objects) is crucial for managing changes
+efficiently and ensuring only intentional modifications are included in a commit snapshot
